@@ -1,0 +1,11 @@
+Mã học sinh, Họ tên, Lớp, Ngày sinh, Giới tính, Điểm môn 1, Điểm môn 2, Điểm môn 3
+I_KhoiA{KhoiA001, Nguyen Van A, CNTT, 22/10/2002, nam, Toan=6.0, Ly=8.6, Hoa=5.0}
+I_KhoiB{KhoiB001, Nguyen Van B, Ke Toan, 15/5/2003, nam, Toan=7.0, Sinh=9.0, Hoa=6.0}
+I_KhoiA{KhoiA002, Tran Thi C, SEO, 3/8/2002, nu, Toan=8.0, Ly=7.5, Hoa=8.0}
+I_KhoiB{KhoiB002, Le Van D, CNTT, 10/12/2003, nam, Toan=5.0, Sinh=8.0, Hoa=7.0}
+I_KhoiA{KhoiA003, Pham Van E, Ngon Ngu Anh, 2/4/2002, nam, Toan=9.0, Ly=9.5, Hoa=6.0}
+I_KhoiB{KhoiB003, Vo Van F, Kinh Te, 18/11/2002, nam, Toan=6.0, Sinh=8.8, Hoa=7.0}
+I_KhoiA{KhoiA004, Do Thi G, Du Lich, 20/9/2003, nu, Toan=7.0, Ly=9.2, Hoa=8.0}
+I_KhoiB{KhoiB004, Nguyen Van H, Mang May Tinh, 5/6/2002, nam, Toan=8.0, Sinh=8.0, Hoa=6.0}
+I_KhoiA{KhoiA005, Tran Van I, Quan Tri Khach San, 12/3/2003, nam, Toan=9.1, Ly=9.6, Hoa=10.0}
+I_KhoiB{KhoiB005, Le Thi K, Kinh Te, 30/7/2002, nu, Toan=5.0, Sinh=7.5, Hoa=8.0}

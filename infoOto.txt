@@ -1,0 +1,6 @@
+AUDI, Audi A5, 2015, 169.9, 5, 4 thi
+MESCERDES, GLC 300, 2017, 230.7, 16, 4 thi
+HONDA, Honda City, 2023, 150.77, 4, 4 thi
+TOYOTA, Innova, 2008, 100.69, 9, 4 thi
+KIA, Morning, 2007, 155,7, 20, 4 thi
+FODR, Transit, 2008, 188,98, 16, 4 thi

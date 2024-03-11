@@ -1,0 +1,14 @@
+sv01, Nguyen Van A, true, 9.4, 7, 2
+sv01, Nguyen Van A, true, 9.4, 7
+sv02, Tran Thi B, false, 8, 9.2, 5
+sv02, Tran Thi B, false, 8, 9.2
+sv03, Pham Van C, false, 7, 9.9, 3
+sv03, Pham Van C, false, 7, 9.9
+sv04, Le Thi D, true, 8.1, 5, 6
+sv04, Le Thi D, true, 8.1, 5
+sv05, Hoang Van E, true, 8.5, 9.4, 9
+sv05, Hoang Van E, true, 8.5, 9.4
+sv06, Le Thi H, true, 3, 5, 8
+sv06, Le Thi H, true, 3, 5
+sv07, Tan An, true, 2, 4, 7
+sv07, Tan An, true, 2, 4

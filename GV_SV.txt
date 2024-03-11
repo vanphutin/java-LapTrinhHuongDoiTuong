@@ -1,0 +1,8 @@
+SV001, Chi Pheo, 01/01/2004, true, 9, 8, 6
+SV002, Thi No, 12/01/2004, false, 8, 4, 5 
+SV003, Nguyen Thi Be, 21/11/2003, false, 3, 4, 9
+GV001, Le Van Nam, 12/12/1990, true, Java, 60, 25000
+GV002, Nguyen Thi Tuyet, 01/01/1998, false, CTDL & GT, 45, 20000 
+GV003, Tran Thanh Hai, 22/02/1999, true, Lap trinh web, 45, 3000
+SV004, Le Van Nho, 23/02/2004, true, 7, 9, 6
+SV005, Tran Phan Nguyen, 18/02/2004, true, 5, 4, 9

@@ -1,0 +1,13 @@
+SGK001, Toan, Nha Xuat Ban X, 2022, 100, 30, 15.99, Giao Duc
+TT001, 7 Vien Ngoc Rong, Nha Xuat Ban Y, 2023, 150, 20, 25.99, Truyen Tranh
+SGK002, Ngu Van, Nha Xuat Ban Z, 2021, 120, 25, 19.99, Van Hoc
+TT002, Naruto, Nha Xuat Ban W, 2020, 200, 15, 12.99, Tam Li
+SGK003, Toan Cao Cap, Nha Xuat Ban V, 2019, 180, 18, 22.99, Giao Duc
+TT003, One Piece, Nha Xuat Ban U, 2022, 90, 35, 14.99, Truyen Tranh
+SGK004, Su Dia, Nha Xuat Ban T, 2023, 110, 28, 18.50, Dia Ly
+TT004, Bleach, Nha Xuat Ban S, 2021, 130, 22, 21.50, Truyen Tranh
+SGK005, Lich Su Viet Nam, Nha Xuat Ban R, 2020, 140, 20, 17.99, Lich Su
+TT005, Dragon Ball, Nha Xuat Ban Q, 2022, 80, 40, 13.50, Kinh Di
+SGK006, Sinh Hoc, Nha Xuat Ban P, 2023, 95, 32, 16.99, Khoa Hoc
+TT006, Death Note, Nha Xuat Ban O, 2021, 110, 25, 20.99, Vien Tuong
+SGK007, Dia Ly The Gioi, Nha Xuat Ban N, 2020, 160, 15, 14.50, Dia Ly

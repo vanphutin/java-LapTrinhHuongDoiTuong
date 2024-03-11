@@ -1,0 +1,5 @@
+sv01, Nguyen Van A, yes, 9.4
+sv02, Tran Thi B, no, 8.7
+sv03, Pham Van C, yes, 7.9
+sv04, Le Thi D, no, 8.1
+sv05, Hoang Van E, yes, 8.5
