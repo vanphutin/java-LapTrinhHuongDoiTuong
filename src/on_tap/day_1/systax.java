@@ -3,7 +3,7 @@ package on_tap.day_1;
 
 import java.util.Scanner;
 
-public class systax {
+public class Systax {
     
     public static void main(String[] args) {
 //       bai1();
@@ -11,7 +11,8 @@ public class systax {
 //       bai3();
 //       bai4();
 //       bai5();
-       printFizzBuzz();
+//       printFizzBuzz();
+       bai9();
     }
     
     //bai 1 : Viết chương trình tính tổng hai số nguyên nhập từ bàn phím.
@@ -106,4 +107,11 @@ public class systax {
             }
         }
     }
+     
+   public static void bai9(){
+    for(int i = 1; i < 35; i++){
+        System.out.println("data.add(" + (int)(Math.random() * 100) + ");");
+    }
+}
+
 }
